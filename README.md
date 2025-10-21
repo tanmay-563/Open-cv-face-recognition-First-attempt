@@ -2,7 +2,14 @@
 
 Create a fast real-time face recognition app with Python and OpenCV.
 
-![gif](media/gif.gif)
+
+## 🧩 Features
+- Detects and recognizes faces in real-time using webcam feed.  
+- Captures and stores new user face images automatically.  
+- Trains an OpenCV face recognizer (`LBPHFaceRecognizer`) from collected data.  
+- Uses Haar Cascade classifier for face detection.  
+- Displays recognition confidence and labels dynamically.  
+- Fully customizable via `settings.py`.  
 
 ## Installation
 
